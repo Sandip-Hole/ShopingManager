@@ -21,11 +21,7 @@ hamcrest-core-1.3.jar
 Assuming the prices of fruits as below,
 
 Apple = 2.40 
-
 Banana = 1.60 
-
 Orange = 2.00 
-
 Peach = 1.20 
-
 Lemon = 0.80
