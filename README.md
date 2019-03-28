@@ -7,11 +7,11 @@ The basket can contain one or more of the following items: Bananas, Oranges, App
 
 - Project Dependencies :
 
-Java 1.8,
+Java 1.8
 
-Junit 4.11,
+Junit 4.11
 
-hamcrest-core-1.3.jar,
+hamcrest-core-1.3.jar
 
 
 
@@ -21,7 +21,11 @@ hamcrest-core-1.3.jar,
 Assuming the prices of fruits as below,
 
 Apple = 2.40 
+
 Banana = 1.60 
+
 Orange = 2.00 
+
 Peach = 1.20 
+
 Lemon = 0.80
